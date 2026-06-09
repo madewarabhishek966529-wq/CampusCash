@@ -49,6 +49,14 @@ dependencies:
   fl_chart: ^0.69.0
   path: ^1.9.0
   share_plus: ^12.0.1
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/campuscash_icon.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/campuscash_icon.png"
 
 dev_dependencies:
   flutter_test:

@@ -13,6 +13,7 @@ packages:
     dependency: transitive
     description:
       name: _flutterfire_internals
+      
       sha256: afe15ce18a287d2f89da95566e62892df339b1936bbe9b83587df45b944ee72a
       url: "https://pub.dev"
     source: hosted

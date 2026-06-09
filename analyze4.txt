@@ -1,0 +1,5 @@
+Analyzing campuscash...                                         
+
+   info - Statements in an if should be enclosed in a block - lib\page\login page\loginpage.dart:179:35 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\page\login page\loginpage.dart:193:35 - curly_braces_in_flow_control_structures
+
